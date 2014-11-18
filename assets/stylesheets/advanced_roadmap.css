@@ -34,3 +34,6 @@ div.tooltip:hover span.tip {
     border-radius: 10px 10px 10px 10px;
     box-shadow: 0 0 5px;
 }
+table.related-issues > tbody > tr > td:nth-child(2) {
+    text-align: left;
+}
